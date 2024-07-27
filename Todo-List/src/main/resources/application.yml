@@ -1,0 +1,9 @@
+server:
+  port:7070
+spring:
+  datasource:
+    url: jdbce:postgresql://localhost:5432//just
+    username: boss
+    password: root
+    driver-class-name: org.postgresql.Driver
+
